@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hello! I am Andrea Bellome (Ph.D.)
+
+- 🚀 Aerospace Engineer.
+- 🖥 Solution Architect and Software Developer.
+
 <!--
 **andreabellome/andreabellome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
