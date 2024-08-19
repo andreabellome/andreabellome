@@ -8,9 +8,9 @@ I define myself as:
 
 My main areas of interest are:
 - :artificial_satellite: aerospace: astrodynamics, mission design, GNC
-- software engineering: backend development, artificial intelligent development
+- :desktop_computer: software engineering: backend development, artificial intelligent development
 
-Education:
+:school: Education:
 - Ph.D. in Aerospace Engineering at Cranfield University
 - M.Sc. in Space Engineering at University of Surrey
 - B.Sc. in Aerospace Engineering at La Sapienza University of Rome
