@@ -1,9 +1,19 @@
 ## Hi there 👋
 
-Hello! I am Andrea Bellome (Ph.D.)
+Hello! I am Andrea Bellome
 
-- 🚀 Aerospace Engineer.
-- 🖥 Solution Architect and Software Developer.
+I define myself as:
+- 🚀 Aerospace Engineer
+- 🖥 Software Developer
+
+My main areas of interest are:
+- :artificial_satellite: aerospace: astrodynamics, mission design, GNC
+- software engineering: backend development, artificial intelligent development
+
+Education:
+- Ph.D. in Aerospace Engineering at Cranfield University
+- M.Sc. in Space Engineering at University of Surrey
+- B.Sc. in Aerospace Engineering at La Sapienza University of Rome
 
 <!--
 **andreabellome/andreabellome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
