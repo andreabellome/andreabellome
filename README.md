@@ -4,7 +4,7 @@ Hello! I am Andrea Bellome
 
 I define myself as:
 - 🚀 Aerospace Engineer
-- 🖥 Software Developer
+- 🖥 Software Engineer
 
 My main areas of interest are:
 - :artificial_satellite: aerospace: astrodynamics, mission design, GNC
